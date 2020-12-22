@@ -7,7 +7,8 @@
 2. Press punch button to land punches on the boxing bag until its health is fully depleted.
 3. Press restart button to restart the game.
 
-
+**Gamelink**
+https://braynmjn.github.io/voxing-bag/
 
 **Screenshot:**
 ![Screenshot](Screenshot.jpg)
